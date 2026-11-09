@@ -1,0 +1,547 @@
+{
+  "meta": {
+    "as_of": "2026-11",
+    "macro": {
+      "growth": "3.1%",
+      "growth_label": "צמיחה גלובלית 2026 (IMF, אוק׳)",
+      "inflation": "4.7%",
+      "inflation_label": "אינפלציה גלובלית 2026 (IMF, אוק׳)"
+    },
+    "sources": [
+      "BIS Annual Economic Report, June 2026",
+      "Bank of England FPC Record, September 2026",
+      "Bank of England Financial Stability Report, July 2026",
+      "ECB Financial Stability Review, May 2026",
+      "FSB 2025 Annual Report",
+      "FSB Chair's letter to the G20 and stablecoin note, October 2026",
+      "FSB Chair's letter to the G20 on frontier AI, August 2026",
+      "FSB Global Monitoring Report on NBFI, December 2025",
+      "FSB Plenary & AI Sound Practices, June 2026",
+      "FSB Repo Markets Report & Work Programme 2026",
+      "Fed FSR — survey of market contacts, May 2026",
+      "Federal Reserve Financial Stability Report, May 2026",
+      "IMF GFSR & WEO, October 2026",
+      "IMF World Economic Outlook, April 2026",
+      "OECD Interim Economic Outlook, September 2026",
+      "Scope Ratings Global Economic Outlook 2026",
+      "WEF Global Risks Report 2026",
+      "World Bank Commodity Markets Outlook, October 2026",
+      "World Bank Global Economic Prospects, June 2026"
+    ]
+  },
+  "categories": [
+    {
+      "id": 1,
+      "category": "מאקרו-פיננסי",
+      "categoryEn": "MACRO-FINANCIAL",
+      "color": "#C0392B",
+      "glow": "#e74c3c",
+      "items": [
+        {
+          "id": "r01",
+          "title": "זינוק בתשואות אג\"ח ממשלתיות וחוב ציבורי",
+          "severity": 10.0,
+          "likelihood": 9.6,
+          "source": "IMF GFSR אוקטובר 2026",
+          "bodies": [
+            "IMF·10/26",
+            "FSB·10/26",
+            "WEF·01/26",
+            "WorldBank·06/26",
+            "BIS·06/26",
+            "BoE·09/26"
+          ],
+          "detail": "ה-IMF מגדיר עלייה חדה בתשואות אג\"ח ממשלתיות כתרחיש השלילי המרכזי. התשואות עלו מאז פברואר 2026 בגלל מחירי אנרגיה ופרמיות סיכון. החוב הציבורי העולמי קרוב ל-100% תוצר, הרמה הגבוהה מאז מלחמת העולם השנייה, וסיכוני המחזור לא נפתרו. BIS (יוני) צופה ירידות תכופות וחדות יותר בערך אג\"ח ממשלתיות. יו\"ר ה-FSB (אוקטובר) הצביע על תנודתיות מוגברת בשוקי אג\"ח ממשלתיות. ה-FPC של BoE (ספטמבר) ציין שתשואות הגילט והאוצר האמריקאי הגיעו לרמות שלא נראו מאז 2008, ושהסבירות שפגיעויות החוב הריבוני, הערכות השווי והאשראי המסוכן יתממשו יחד עלתה.",
+          "trend": "↑↑",
+          "badge": "קריטי ביותר",
+          "links": [
+            "https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75",
+            "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026",
+            "https://www.bis.org/press/p260628.htm",
+            "https://www.fsb.org/2026/10/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-october-2026/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        },
+        {
+          "id": "r02",
+          "title": "תיקון שוק הקשור ל-AI",
+          "severity": 9.5,
+          "likelihood": 9.6,
+          "source": "IMF GFSR אוקטובר 2026",
+          "bodies": [
+            "IMF·10/26",
+            "WEF·01/26",
+            "FSB·10/26",
+            "WorldBank·06/26",
+            "ECB·05/26",
+            "Fed-סקר·05/26",
+            "BoE·09/26"
+          ],
+          "detail": "אחד משלושת הסיכונים המרכזיים ב-GFSR. ה-IMF מציין שמכפילי הרווח ירדו כי הרווחים עוקפים תחזיות, ולכן ההערכות פחות מנופחות מבועת הדוט-קום. הסיכון הוא תיקון חד אם ציפיות הפריון מ-AI יוערכו מחדש. כאן יש מחלוקת: BoE (יולי) מעריך שההערכות מתוחות יותר, וה-ECB (מאי) רואה בציפיות ה-AI גורם מרכזי לרגישות השוק לזעזועים. יו\"ר ה-FSB (אוקטובר) הזהיר שהשווקים נותרו חשופים לתיקון לא מסודר.",
+          "trend": "↑",
+          "badge": "קריטי",
+          "links": [
+            "https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75",
+            "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026",
+            "https://www.ecb.europa.eu/pub/financial-stability/fsr/html/index.en.html",
+            "https://www.federalreserve.gov/publications/financial-stability-report.htm",
+            "https://www.fsb.org/2026/10/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-october-2026/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        },
+        {
+          "id": "r03",
+          "title": "מימון AI בחוב — תחרות על אשראי",
+          "severity": 9.2,
+          "likelihood": 8.1,
+          "source": "IMF GFSR אוקטובר 2026",
+          "bodies": [
+            "IMF·10/26",
+            "WEF·01/26",
+            "FSB·06/26",
+            "BoE·09/26"
+          ],
+          "detail": "חלקן של ענקיות הענן בהנפקות אג\"ח בדירוג השקעה עלה ל-10%, לעומת פחות מ-1% מאז 2024. ההנפקות מתחרות על הון עם אג\"ח ממשלתיות ומגבירות את החשיפה של שוק האשראי לסקטור אחד.",
+          "trend": "↑",
+          "badge": "קריטי",
+          "links": [
+            "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026",
+            "https://www.fsb.org/2026/06/fsb-plenary-highlights-potential-new-vulnerabilities-to-financial-stability/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        },
+        {
+          "id": "r04",
+          "title": "מינוף בשווקים חוץ-בנקאיים (NBFI)",
+          "severity": 9.7,
+          "likelihood": 8.3,
+          "source": "FSB NBFI Monitoring Report דצמבר 2025",
+          "bodies": [
+            "FSB·12/25",
+            "IMF·10/26",
+            "WEF·01/26",
+            "BIS·06/26"
+          ],
+          "detail": "מגזר ה-NBFI צמח ב-2024 בקצב כפול מהבנקאות. קשרי גומלין הדוקים עם הבנקים דרך פיקדונות, ריפו ואשראי. ה-FSB ממשיך לעבוד על פערי נתונים בתחום (מליאת יוני 2026).",
+          "trend": "↑",
+          "badge": "קריטי",
+          "links": [
+            "https://www.bis.org/press/p260628.htm",
+            "https://www.fsb.org/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        },
+        {
+          "id": "r05",
+          "title": "מינוף וריכוזיות בקרנות גידור",
+          "severity": 9.0,
+          "likelihood": 8.1,
+          "source": "IMF GFSR אוקטובר 2026, פרק 2",
+          "bodies": [
+            "IMF·10/26",
+            "FSB·06/26",
+            "BIS·06/26",
+            "BoE·09/26"
+          ],
+          "detail": "סיכון חדש. הפוזיציות המנייתיות של קרנות גידור יחד עם הלוואות מרג'ין עלו מ-10% לכ-15% מתוצר המדינות המפותחות. מינוף גובר וחפיפה בתיקים עלולים להגביר יציאות בזמן לחץ, כולל בשוק האג\"ח הממשלתי. BIS מצטרף לאזהרה. ה-FPC של BoE (ספטמבר) מעריך שמינוף קרנות הגידור בשוק הגילט יציב אך גבוה, ושהלוואות הריפו נטו שלהן גבוהות במונחים היסטוריים.",
+          "trend": "↑",
+          "badge": "קריטי",
+          "links": [
+            "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026",
+            "https://www.bis.org/press/p260628.htm",
+            "https://www.fsb.org/2026/06/fsb-plenary-highlights-potential-new-vulnerabilities-to-financial-stability/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "גיאו-פוליטי וסחר",
+      "categoryEn": "GEOPOLITICAL & TRADE",
+      "color": "#E67E22",
+      "glow": "#f39c12",
+      "items": [
+        {
+          "id": "r06",
+          "title": "הלם אנרגיה — מלחמה במזרח התיכון",
+          "severity": 9.1,
+          "likelihood": 9.3,
+          "source": "World Bank GEP יוני 2026, IMF WEO אוקטובר 2026",
+          "bodies": [
+            "IMF·10/26",
+            "WEF·01/26",
+            "FSB·06/26",
+            "Fed-סקר·05/26",
+            "BIS·06/26",
+            "OECD·09/26",
+            "BoE·09/26",
+            "WorldBank·10/26"
+          ],
+          "detail": "הבנק העולמי (אוקטובר) צופה עלייה של 32% במחירי האנרגיה ב-2026 וברנט ממוצע של 91 דולר, וירידה של 5.2% בהיצע הנפט, החדה ביותר מזה ארבעה עשורים מחוץ למיתון 2020. המלאים התדלדלו, ולכן העולם חשוף יותר לזעזועי היצע נוספים; בתרחיש השלילי ברנט ממוצע של 105 דולר ב-2027. ה-FPC של BoE (ספטמבר) מציין שהסלמה מחודשת במזרח התיכון וברנט מעל 100 דולר מגבירים את הסיכון שפגיעויות יתממשו יחד. תרחישי ה-IMF: 3.1% צמיחה עם נפט ב-82 דולר, 2.5% עם 100 דולר, ו-2.0% עם 110 דולר. מנגד, OECD (ספטמבר) מעריך שהכלכלה העולמית ספגה את ההלם טוב מהצפוי. בסקר ה-Fed זה הסיכון השני בחשיבותו.",
+          "trend": "↑",
+          "badge": "קריטי",
+          "links": [
+            "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026",
+            "https://www.bis.org/press/p260628.htm",
+            "https://www.federalreserve.gov/publications/financial-stability-report.htm",
+            "https://www.fsb.org/2026/06/fsb-plenary-highlights-potential-new-vulnerabilities-to-financial-stability/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.oecd.org/en/about/news/press-releases/2026/09/global-growth-holds-up-despite-successive-shocks-but-risks-persist.html",
+            "https://www.weforum.org/publications/global-risks-report-2026/",
+            "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+          ]
+        },
+        {
+          "id": "r07",
+          "title": "מלחמת סחר ועימות גיאו-כלכלי",
+          "severity": 8.7,
+          "likelihood": 9.0,
+          "source": "WEF GRR 2026 — סיכון #1",
+          "bodies": [
+            "WEF·01/26",
+            "WorldBank·06/26",
+            "IMF·10/26",
+            "FSB·06/26",
+            "Scope·12/25",
+            "Fed-סקר·05/26",
+            "BoE·07/26",
+            "ECB·05/26"
+          ],
+          "detail": "WEF דירג עימות גיאו-כלכלי כסיכון הגלובלי מספר 1 לשנת 2026. ה-IMF באוקטובר מתאר את הסחר כמתוח אך עדיין עמיד, ומונה התחדשות מתחים מסחריים כסיכון נוסף.",
+          "trend": "→",
+          "badge": "גבוה מאוד",
+          "links": [
+            "https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75",
+            "https://www.bankofengland.co.uk/financial-stability-report",
+            "https://www.ecb.europa.eu/pub/financial-stability/fsr/html/index.en.html",
+            "https://www.federalreserve.gov/publications/financial-stability-report.htm",
+            "https://www.fsb.org/2026/06/fsb-plenary-highlights-potential-new-vulnerabilities-to-financial-stability/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.scoperatings.com/",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        },
+        {
+          "id": "r08",
+          "title": "אינפלציה חוזרת והידוק מוניטרי",
+          "severity": 9.0,
+          "likelihood": 9.1,
+          "source": "IMF WEO אוקטובר 2026",
+          "bodies": [
+            "IMF·10/26",
+            "WorldBank·06/26",
+            "WEF·01/26",
+            "BIS·06/26",
+            "Fed-סקר·05/26",
+            "Fed·05/26",
+            "OECD·09/26"
+          ],
+          "detail": "ה-IMF העלה את תחזית האינפלציה העולמית ל-2026 ל-4.7%, בעיקר בגלל אנרגיה ומזון. לפי הבנק העולמי, בנקים מרכזיים שומרים על מדיניות הדוקה יותר. ריבית גבוהה לאורך זמן מייקרת מימון בכל העולם. BIS (יוני) מזהיר שהאינפלציה עלולה להתקבע.",
+          "trend": "↑↑",
+          "badge": "קריטי",
+          "links": [
+            "https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75",
+            "https://www.bis.org/press/p260628.htm",
+            "https://www.federalreserve.gov/publications/financial-stability-report.htm",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.oecd.org/en/about/news/press-releases/2026/09/global-growth-holds-up-despite-successive-shocks-but-risks-persist.html",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        },
+        {
+          "id": "r09",
+          "title": "שיבושי שרשרת אספקה גלובלית",
+          "severity": 8.0,
+          "likelihood": 7.2,
+          "source": "World Bank GEP יוני 2026",
+          "bodies": [
+            "IMF·10/26",
+            "WEF·01/26",
+            "BIS·06/26",
+            "WorldBank·10/26"
+          ],
+          "detail": "שיבושי אספקת אנרגיה נוספו להגבלות על חומרי גלם קריטיים ומוליכים למחצה. הבנק העולמי הוריד תחזיות לכשני שלישים מהכלכלות, בין השאר בגלל המחירים הגבוהים ואי-הוודאות. הבנק העולמי (אוקטובר) מצביע על שיבוש משלוחי תבואה, עלייה של 10% במחירי המזון ומחירי שיא למתכות תעשייתיות.",
+          "trend": "↑",
+          "badge": "גבוה מאוד",
+          "links": [
+            "https://www.bis.org/press/p260628.htm",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.weforum.org/publications/global-risks-report-2026/",
+            "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026"
+          ]
+        },
+        {
+          "id": "r10",
+          "title": "מאבקים על מערכת התשלומים הגלובלית",
+          "severity": 7.5,
+          "likelihood": 6.4,
+          "source": "WEF GRR 2026 פרק 2",
+          "bodies": [
+            "WEF·01/26",
+            "FSB·02/26",
+            "IMF·10/26"
+          ],
+          "detail": "ממשלות עלולות לנצל מערכות תשלום ועתודות מטבע כנשק: הקפאת נכסים והגבלת גישה לדולר. ה-FSB ממשיך לתאם את מפת הדרכים של ה-G20 לתשלומים חוצי-גבולות.",
+          "trend": "→",
+          "badge": "גבוה",
+          "links": [
+            "https://www.fsb.org/uploads/P030226.pdf",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "יציבות פיננסית מבנית",
+      "categoryEn": "STRUCTURAL STABILITY",
+      "color": "#8E44AD",
+      "glow": "#9b59b6",
+      "items": [
+        {
+          "id": "r11",
+          "title": "אשראי פרטי (Private Credit) — שוק לא נבחן",
+          "severity": 7.7,
+          "likelihood": 8.2,
+          "source": "FSB Report on Vulnerabilities in Private Credit, מאי 2026",
+          "bodies": [
+            "FSB·10/26",
+            "IMF·10/26",
+            "BIS·06/26",
+            "WEF·01/26",
+            "Fed·05/26",
+            "Fed-סקר·05/26",
+            "ECB·05/26",
+            "BoE·09/26"
+          ],
+          "detail": "ה-FSB פרסם דוח ייעודי: שוק של 1.5 עד 2.0 טריליון דולר, מרוכז בכמה מדינות. סימני הרעה: שימוש גובר בהלוואות PIK, אטימות בהערכות שווי, קשרים עמוקים עם בנקים, מבטחים ופרייבט אקוויטי, וקרנות עם אפשרויות פדיון. השוק לא נבחן במיתון ממושך. ה-Fed מעריך את הסיכון כמוגבל וניתן לניהול, וה-ECB רואה חשיפה ישירה מוגבלת. מנגד, בסקר ה-Fed הנושא זינק ממקום 9 למקום 4. יו\"ר ה-FSB חזר על האזהרה במכתב ל-G20 באוקטובר.",
+          "trend": "↑↑",
+          "badge": "גבוה",
+          "links": [
+            "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026",
+            "https://www.bis.org/press/p260628.htm",
+            "https://www.ecb.europa.eu/pub/financial-stability/fsr/html/index.en.html",
+            "https://www.federalreserve.gov/publications/financial-stability-report.htm",
+            "https://www.fsb.org/2026/10/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-october-2026/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        },
+        {
+          "id": "r12",
+          "title": "שווקי ריפו — לחץ סיסטמי",
+          "severity": 7.8,
+          "likelihood": 7.1,
+          "source": "FSB פברואר 2026, IMF GFSR אוקטובר 2026",
+          "bodies": [
+            "FSB·02/26",
+            "BIS·06/26",
+            "IMF·10/26",
+            "BoE·09/26"
+          ],
+          "detail": "ה-FSB הזהיר בפברואר ממינוף וריכוזיות בשווקי ריפו מגובי אג\"ח ממשלתיות. ה-IMF באוקטובר מצא שהלוואות הריפו של קרנות גידור באירופה ובארה\"ב התפרקו חלקית ללא לחץ בולט, ולכן הסיכון ירד מעט. ה-FPC של BoE (ספטמבר) מגדיר את חוסן שוק הריפו של הגילט כעדיפות, ומקדם רפורמה ביחס המינוף.",
+          "trend": "↓",
+          "badge": "גבוה",
+          "links": [
+            "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026",
+            "https://www.bis.org/press/p260628.htm",
+            "https://www.fsb.org/uploads/P030226.pdf",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026"
+          ]
+        },
+        {
+          "id": "r13",
+          "title": "נדל\"ן מסחרי — ירידת שווי נמשכת",
+          "severity": 7.4,
+          "likelihood": 6.3,
+          "source": "FSB 2025 Annual Report",
+          "bodies": [
+            "FSB·11/25",
+            "IMF·10/26",
+            "WorldBank·06/26"
+          ],
+          "detail": "מחירי נדל\"ן מסחרי ירדו בחדות, בעיקר משרדים. בנקים חשופים, והירידה המבנית בביקוש לשטחי משרדים ממשיכה להעיב על איכות תיקי האשראי.",
+          "trend": "→",
+          "badge": "גבוה",
+          "links": [
+            "https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75",
+            "https://www.fsb.org/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026"
+          ]
+        },
+        {
+          "id": "r14",
+          "title": "מרווחי אשראי — רגיעה מדומה",
+          "severity": 8.0,
+          "likelihood": 6.9,
+          "source": "IMF GFSR אוקטובר 2026",
+          "bodies": [
+            "IMF·10/26",
+            "FSB·06/26",
+            "BoE·09/26"
+          ],
+          "detail": "כותרת פרק 1 ב-GFSR מסכמת את המצב: מתחת לעמידות מסתתרים סיכונים עולים ופגיעויות שלא נפתרו. במליאת יוני ה-FSB הזהיר שצירוף של זעזועים עלול להפעיל כמה פגיעויות בבת אחת.",
+          "trend": "→",
+          "badge": "גבוה מאוד",
+          "links": [
+            "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026",
+            "https://www.fsb.org/2026/06/fsb-plenary-highlights-potential-new-vulnerabilities-to-financial-stability/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "טכנולוגי וקיברנטי",
+      "categoryEn": "TECH & CYBER",
+      "color": "#1ABC9C",
+      "glow": "#16a085",
+      "items": [
+        {
+          "id": "r15",
+          "title": "מתקפות סייבר וכשל תשתית IT פיננסית",
+          "severity": 9.4,
+          "likelihood": 8.7,
+          "source": "IMF GFSR אוקטובר 2026, FSB Chair letter אוגוסט 2026",
+          "bodies": [
+            "IMF·10/26",
+            "FSB·08/26",
+            "BIS·06/26",
+            "WEF·01/26",
+            "BoE·09/26"
+          ],
+          "detail": "סייבר הוא אחד משלושת הסיכונים המרכזיים ב-GFSR אוקטובר 2026. אירוע CrowdStrike 2024 חשף את התלות של בנקים, ברוקרים ופינטק בספקים משותפים. מתקפה ממוקדת עלולה לגרום לנזק מערכתי. BoE: מודלי AI מתקדמים הופכים מתקפות לתחכומיות ורחבות יותר. יו\"ר ה-FSB (אוגוסט) הגדיר את השפעת AI מתקדם על סיכוני הסייבר כ\"חשש המיידי ביותר\" של המערכת הפיננסית.",
+          "trend": "↑↑",
+          "badge": "קריטי",
+          "links": [
+            "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026",
+            "https://www.bis.org/press/p260628.htm",
+            "https://www.fsb.org/2026/08/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-august-2026/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        },
+        {
+          "id": "r16",
+          "title": "Stablecoins וטוקניזציה של נכסים",
+          "severity": 8.4,
+          "likelihood": 7.1,
+          "source": "IMF GFSR אוקטובר 2026, פרק 3; WEF GRR 2026",
+          "bodies": [
+            "WEF·01/26",
+            "FSB·10/26",
+            "IMF·10/26"
+          ],
+          "detail": "WEF צופה צבירה של 1.22 טריליון דולר ב-stablecoins בשווקים מתפתחים עד 2028, עם סיכון לריבונות מוניטרית. ה-IMF הקדיש פרק לטוקניזציה של נכסים פיננסיים, וה-FSB בוחן פגיעויות של stablecoins רב-שיפוטיים. מזכר ה-FSB (אוקטובר): שוק של כ-300 מיליארד דולר, 99% צמודים לדולר, שלא נבחן בלחץ חמור או בחדלות פירעון של מנפיק. בשווקים מתפתחים הוא עלול להפוך למערכתי כבר ברמות אימוץ נמוכות.",
+          "trend": "↑",
+          "badge": "גבוה מאוד",
+          "links": [
+            "https://www.fsb.org/2026/10/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-october-2026/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        },
+        {
+          "id": "r17",
+          "title": "סיכוני אימוץ AI במוסדות פיננסיים",
+          "severity": 8.4,
+          "likelihood": 7.8,
+          "source": "FSB Chair letter (אוגוסט 2026), FSB AI Sound Practices (אוקטובר 2026)",
+          "bodies": [
+            "FSB·08/26",
+            "BIS·06/26",
+            "IMF·10/26",
+            "BoE·09/26"
+          ],
+          "detail": "סיכון חדש. ה-FSB פרסם להערות דוח על נוהלי אימוץ אחראי של AI במוסדות פיננסיים, לבקשת נשיאות ה-G20. הדאגות: תלות בספקי מודלים מעטים, החלטות אוטומטיות מתואמות ופערי ממשל. BoE (יולי) קובע ש-AI מתקדם הגדיל משמעותית את הסיכונים התפעוליים. יו\"ר ה-FSB (אוגוסט) הזהיר שתלות מרוכזת בספקי טכנולוגיה מעטים עלולה לערער את אמון השוק, וה-FSB פרסם באוקטובר את הנוהלים הסופיים לאימוץ AI.",
+          "trend": "↑↑",
+          "badge": "גבוה מאוד",
+          "links": [
+            "https://www.bankofengland.co.uk/-/media/boe/files/financial-policy-committee-record/2026/fpc-summary-and-record-september-2026",
+            "https://www.bis.org/press/p260628.htm",
+            "https://www.fsb.org/2026/08/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-august-2026/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "שווקים מתפתחים ומדינות",
+      "categoryEn": "EMERGING MARKETS",
+      "color": "#2980B9",
+      "glow": "#3498db",
+      "items": [
+        {
+          "id": "r18",
+          "title": "האטה והידוק פיננסי בשווקים מתפתחים",
+          "severity": 9.4,
+          "likelihood": 7.9,
+          "source": "World Bank GEP יוני 2026",
+          "bodies": [
+            "WorldBank·06/26",
+            "IMF·10/26",
+            "FSB·06/26"
+          ],
+          "detail": "לפי הבנק העולמי, הכלכלות המתפתחות צפויות לצמיחת הכנסה לנפש החלשה ביותר מאז המגפה. רבע מהן יישארו עניות יותר בסוף 2026 מאשר לפני המגפה. ה-IMF מזהיר מגלישה של צרכי מימון ענקיים במדינות המפותחות.",
+          "trend": "↑",
+          "badge": "קריטי",
+          "links": [
+            "https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75",
+            "https://www.fsb.org/2026/06/fsb-plenary-highlights-potential-new-vulnerabilities-to-financial-stability/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026"
+          ]
+        },
+        {
+          "id": "r19",
+          "title": "חוב ריבוני בשווקים מתפתחים",
+          "severity": 8.2,
+          "likelihood": 7.3,
+          "source": "World Bank GEP יוני 2026",
+          "bodies": [
+            "WorldBank·06/26",
+            "IMF·10/26",
+            "FSB·06/26",
+            "WEF·01/26"
+          ],
+          "detail": "הבנק העולמי מדגיש שהחוב הממשלתי במדינות מתפתחות ממשיך לטפס. סיכוני מחזור החוב גבוהים במיוחד במדינות בעלות הכנסה נמוכה, ועליית התשואות במדינות המפותחות מייקרת את המימון.",
+          "trend": "↑",
+          "badge": "גבוה מאוד",
+          "links": [
+            "https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75",
+            "https://www.fsb.org/2026/06/fsb-plenary-highlights-potential-new-vulnerabilities-to-financial-stability/",
+            "https://www.imf.org/en/publications/gfsr/issues/2026/10/13/global-financial-stability-report-october-2026",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        },
+        {
+          "id": "r20",
+          "title": "האטת צמיחה בסין",
+          "severity": 7.5,
+          "likelihood": 6.2,
+          "source": "IMF WEO אפריל 2026",
+          "bodies": [
+            "WorldBank·06/26",
+            "IMF·04/26",
+            "WEF·01/26"
+          ],
+          "detail": "האטה מבנית: שוק נדל\"ן חלש וצריכה פנימית ירודה. ה-IMF העלה את תחזית 2026 באפריל בזכות מכסים אמריקאיים נמוכים יותר על סחורות סיניות וצעדי תמריץ, אך הוריד את תחזית 2027. הסיכון ירד לעומת תחילת השנה.",
+          "trend": "→",
+          "badge": "גבוה",
+          "links": [
+            "https://openknowledge.worldbank.org/entities/publication/e96798d7-a81d-44ea-8287-1b4d6ea83f75",
+            "https://www.imf.org/en/Publications/WEO",
+            "https://www.weforum.org/publications/global-risks-report-2026/"
+          ]
+        }
+      ]
+    }
+  ]
+}
